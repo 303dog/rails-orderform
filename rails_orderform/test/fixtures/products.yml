@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  color: MyString
+  size: MyText
+  price: 
+  cust_id: 
+  order_id: 
+
+two:
+  color: MyString
+  size: MyText
+  price: 
+  cust_id: 
+  order_id: 
